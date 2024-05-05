@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## සිංහල බොට් 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -8,11 +8,9 @@
 
 <br>
  
-  <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    
-  
+<p align="center">  
+  <a href="https://telegra.ph/file/9c0494c357c979b683218.jpg">
+    <img alt="sinhala-md" height="300" src="https://telegra.ph/file/9c0494c357c979b683218.jpg">
   </a>
 </p>  
 
@@ -240,30 +238,10 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`sinhala-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
-
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
-
----
-
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
-
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
-
----
-
-## ❤️‍🩹 Special Thanks to
-* [`vihangayt0`](https://github.com/vihangayt0/)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
+   
 
 ![license](https://img.shields.io/github/license/prabathLK/PRABATH-MD?color=green&label=License&style=plastic)
 
