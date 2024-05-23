@@ -1,4 +1,4 @@
-/**
+u/**
 ░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
 ░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
@@ -24,5 +24,5 @@ SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~8icjSRxA#MWEeicuydNAFfOtJXqlwN
 BOT_NUMBER: process.env.BOT_NUMBER || "+94762498519",
 PASSWORD: process.env.PASSWORD || "abcd1",
 GITHUB_USERNAME: process.env.GITHUB_USERNAME || "dinuwababah",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
 };
